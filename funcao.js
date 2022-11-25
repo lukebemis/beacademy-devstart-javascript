@@ -32,3 +32,7 @@ const myFirstArrowFunction = (number1, number2) => {
 }
 const result = myFirstArrowFunction(20,20)
 console.log(result)
+
+// Funções Anônimas
+// Executa após a declaração 
+
