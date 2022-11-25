@@ -1,5 +1,5 @@
 {
-"editor.fontWeight": "normal",
-"editor.fontFamily": "'Operator Mono', 'Cascadia Code', 'Fira Code'",
+"editor.fontWeight": "300",
+"editor.fontFamily": "'Cascadia Code', 'Fira Code'",
 "editor.fontLigatures": true,
 }
